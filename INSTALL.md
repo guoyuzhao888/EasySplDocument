@@ -13,7 +13,7 @@
 
 ##4.TP5安装后的效果
 
-![EasySpl](http://www.tuzisir.top/easyspl/img/tp5easyspl.png)
+![EasySpl](https://raw.githubusercontent.com/guoyuzhao888/EasySplDocument/master/img/tp5.png)
 
 
 
