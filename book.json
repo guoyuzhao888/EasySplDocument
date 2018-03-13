@@ -1,0 +1,36 @@
+{
+    "author": "TuziSir<tuzisir@163.com>",
+    "description": "利用PHP-SPL扩展开发一些常用的功能",
+    "extension": null,
+    "generator": "site",
+    "isbn": "tuzi",
+    "links": {
+        "sharing": {
+            "all": null,
+            "facebook": null,
+            "google": null,
+            "twitter": null,
+            "weibo": null
+        },
+        "sidebar": {
+            "TuziSir 《tuzisir@163.com》": "http://blog.csdn.net/qq_34908844"
+        }
+    },
+    "output": null,
+    "pdf": {
+        "fontSize": 12,
+        "footerTemplate": null,
+        "headerTemplate": null,
+        "margin": {
+            "bottom": 36,
+            "left": 62,
+            "right": 62,
+            "top": 36
+        },
+        "pageNumbers": false,
+        "paperSize": "a4"
+    },
+    "plugins": [],
+    "title": "Sample GitBook",
+    "variables": {}
+}
