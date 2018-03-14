@@ -10,3 +10,9 @@
 
 >v1.0.0 稍微改造了spl的数据结构
 
+#学习与交流
+
+QQ群:254270878
+
+![EasySpl](https://raw.githubusercontent.com/tuzisir/EasySplDocument/master/img/qq.png)
+
