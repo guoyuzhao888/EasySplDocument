@@ -2,9 +2,9 @@
 
 > public static function instance\(string $path\):object
 
-| 参数 | 说明 |
-| :--- | :--- |
-| $path | 要操作的根目录 |
+| 参数 | 类型 | 说明 |
+| :---: | :---: | :---: |
+| $path | string | 操作的根目录 |
 
 > 使用实例
 
@@ -33,13 +33,15 @@ EasySpl\EasyIterator\EasyFile Object
 )
 ```
 
+# 
+
 # 查找文件
 
 > public function findFiles\(string $filename\):object
 
-| 参数 | 描述 |
-| :--- | :--- |
-|  |  |
+| 参数 | 类型 | 描述 |
+| :--- | :--- | :--- |
+| $filename | string | 要查找的文件名称 |
 
 
 
