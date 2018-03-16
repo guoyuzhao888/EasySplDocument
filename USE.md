@@ -1,12 +1,18 @@
-#以ThinkPHP5.1为例
+# 以ThinkPHP5.1为例
 
->EasySpl的使用方式非常简单
+> EasySpl的使用方式非常简单
+>
+> 确保已经安装完成EasySpl
 
->确保已经安装完成EasySpl
+# 以对文件的操作的方式为例
 
-#以对文件的操作的方式为例
+> 代码示例
 
->代码示例
+```
+$res = EasyFile::instance("./")
+                ->findFiles("EasyFile.php")
+                ->getFilesInfo(['getFileName', 'getPath'])->toArray();
+```
 
-![EasySpl](https://raw.githubusercontent.com/tuzisir/EasySplDocument/master/img/use.png)
+
 
