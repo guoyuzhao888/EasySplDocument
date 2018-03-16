@@ -33,7 +33,7 @@ EasySpl\EasyIterator\EasyFile Object
 )
 ```
 
-# 
+> 说明
 
 # 查找文件
 
