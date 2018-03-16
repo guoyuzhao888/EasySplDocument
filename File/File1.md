@@ -1,6 +1,8 @@
-# 实例化EasyFile对象
+# 获取EasyFile对象
 
 > public static function instance\(string $path\):object
+>
+> 此函数用来获取EasyFile,
 
 | 参数 | 类型 | 说明 |
 | :---: | :---: | :---: |
@@ -32,8 +34,6 @@ EasySpl\EasyIterator\EasyFile Object
     内容略
 )
 ```
-
-> 说明
 
 # 查找文件
 
