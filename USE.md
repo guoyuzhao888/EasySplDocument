@@ -1,4 +1,4 @@
-# 以ThinkPHP5.1为例
+# Composer到你的本地目录
 
 > EasySpl的使用方式非常简单
 >
