@@ -28,44 +28,14 @@ print_r($res);
 
 ```
 EasySpl\EasyIterator\EasyFile Object
-(
-    [openFile:protected] =>
-    [openFilePath:protected] =>
-    [delNum:protected] => 0
-    [files:protected] => Array
-        (
-        )
-
-    [returnData:protected] => Array
-        (
-        )
-
-    [myFilesystemIterator:protected] => FilesystemIterator Object
-        (
-            [pathName:SplFileInfo:private] => ./.DS_Store
-            [fileName:SplFileInfo:private] => .DS_Store
-            [glob:DirectoryIterator:private] =>
-            [subPathName:RecursiveDirectoryIterator:private] =>
-        )
-
-    [myRecursiveDirectoryIterator:protected] => RecursiveDirectoryIterator Object
-        (
-            [pathName:SplFileInfo:private] => ./.
-            [fileName:SplFileInfo:private] => .
-            [glob:DirectoryIterator:private] =>
-            [subPathName:RecursiveDirectoryIterator:private] =>
-        )
-
-    [myBaseFilterIterator:protected] => EasySpl\BaseClass\BaseFilterIterator Object
-        (
-            [fileExt] => Array
-                (
-                )
-
-        )
-
+(    
+    内容略
 )
 ```
+
+# 查找文件
+
+> public function findFiles\(string $filename\):object
 
 
 
