@@ -1,6 +1,6 @@
 # 实例化EasyFile对象
 
-> public static function instance\($path\)
+> public static function instance\(string $path\):object
 
 | 参数 | 说明 |
 | :--- | :--- |
@@ -36,6 +36,10 @@ EasySpl\EasyIterator\EasyFile Object
 # 查找文件
 
 > public function findFiles\(string $filename\):object
+
+| 参数 | 描述 |
+| :--- | :--- |
+|  |  |
 
 
 
