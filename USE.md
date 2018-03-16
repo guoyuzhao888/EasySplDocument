@@ -19,7 +19,6 @@ require './vendor/autoload.php'; // 导入composer加载文件
 
 use EasySpl\EasyIterator\EasyFile; // 引入EasyFile所在的命名空间
 
-
 $res = EasyFile::instance("./")
                 ->findFiles("EasyFile.php")
                 ->getFilesInfo(['getFileName', 'getPath'])->toArray();
