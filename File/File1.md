@@ -2,7 +2,7 @@
 
 > public static function instance\(string $path\):object
 >
-> 此函数用来获取EasyFile,接下来的操作都会基于此对象,因为$path是要操作的根目录，所以传递的根目录的路径一定要写对
+> 此函数用来获取EasyFile,接下来的操作都会基于此对象,因为$path是要操作的根目录，所以传递的根目录的路径一定要写对。
 
 | 参数 | 类型 | 说明 |
 | :---: | :---: | :---: |
